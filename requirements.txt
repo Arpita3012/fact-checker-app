@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+python-dotenv
+langchain
+langchain-groq
+tavily-python
